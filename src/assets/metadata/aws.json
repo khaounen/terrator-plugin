@@ -1,7 +1,7 @@
 {
   "name": "aws",
-  "displayName": "AWS provider",
-  "description": "Use the Amazon Web Services (AWS) provider to interact with the many resources supported by AWS.",
+  "displayName": "IV2 provider",
+  "description": "Use the IV2 provider to interact with the many resources supported by marketplace.",
   "icon": "aws",
   "model": "DefaultModel",
   "url": "https://registry.terraform.io/providers/hashicorp/aws/latest/docs",
